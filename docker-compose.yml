@@ -1,0 +1,29 @@
+version: '3'
+
+services:
+  demo:
+    build: ./TiendaVideojuegos
+    mem_limit: 512m
+    ports:
+      - "8080:8080"
+    environment:
+      DB_URL: jdbc:mysql://videoJuego:3306/videoJuego?createDatabaseIfNotExist=true&serverTimezone=UTC
+      DB_USERNAME: root
+      DB_PASSWORD: thor
+    restart: always
+    depends_on:
+      videoJuego:
+          condition: service_healthy
+  videoJuego:
+    image: mysql:8.0.33 
+    ports:
+      - "3307:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: thor
+      MYSQL_PASSWORD: thor
+      MYSQL_DATABASE: videoJuego
+    restart: always
+    healthcheck:
+      test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
+      timeout: 10s
+      retries: 10
