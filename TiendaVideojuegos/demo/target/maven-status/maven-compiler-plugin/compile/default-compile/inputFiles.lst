@@ -1,0 +1,17 @@
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/DemoApplication.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/controllers/ControladorCategoria.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/controllers/ControladorEstudio.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/controllers/ControladorInicio.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/controllers/ControladorVideojuego.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/entities/Categoria.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/entities/Estudio.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/entities/Videojuego.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/repositories/RepositorioCategoria.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/repositories/RepositorioEstudio.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/repositories/RepositorioVideojuego.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/services/ServicioBase.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/services/ServicioCategoria.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/services/ServicioEstudio.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/services/ServicioVideojuego.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/validationImage/ImagenJpg.java
+/home/tats/Desktop/UNCuyo/3°Año/SegundoSemestre/IngenieriaSoftware2/deployVideoJuego/TiendaVideojuegos/demo/src/main/java/com/videojuego/demo/validationImage/ImagenJpgValidator.java
